@@ -1,4 +1,4 @@
-﻿KBD	Ar_Mac	"Arabic (101)-MAC-Layout"
+﻿KBD	Ar_Mac	"Arabic (101)-MAC-NewLayout"
 
 COPYRIGHT	"(c) 2012 Company"
 
@@ -155,10 +155,10 @@ KEYNAME_EXT
 
 DESCRIPTIONS
 
-0409	Arabic (101)-MAC-Layout
+0409	Arabic (101)-MAC-NewLayout
 
 LANGUAGENAMES
 
-0409	Arabic (Egypt)
+0409	Arabic (Standard)
 
 ENDKBD
